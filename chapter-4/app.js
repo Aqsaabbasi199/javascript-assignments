@@ -24,8 +24,10 @@
 document.write("<h1>Rules for naming js variables </h1>")
 // b
 document.write("variables names can only contain letters, numbers, and $, _ .<br>")
+document.write("for example: $my_1stvariable<br>")
 // c
 document.write("variables must begin with a letter, $, or _ .<br>")
+document.write("for example: $name, _name or name<br>")
 // d
 document.write("variables names are case sensitive. <br>")
 // e
